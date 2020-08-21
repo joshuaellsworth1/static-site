@@ -7,6 +7,7 @@ app.get("/", (req, res) => {
 
 app.use(express.static("static"));
 
+
 app.listen(5000, function() {
     console.log("It works!")
 });
