@@ -15,19 +15,21 @@ li, a {
 header {
     display: flex;
     align-items: right;
-    /* padding: 200px 0px 200px 0px; */
-    background-color: orange;
+    background-color: white;
+    height: 50%;
 }
 
 .logo {
     width: 100%;
-    
+    padding: 2%;    
 }
 
 .nav_links {
     list-style: none;
-    position: absolute;
+    position: fixed;
     margin: 50px;
+    top: 0;
+    width: 100%;
 }
 
 .nav_links li {
@@ -82,18 +84,18 @@ h3 {
 }
 
 .text {
-    color: #F3E4DF;
-    
-    align-items: center;
+    color: black;
+    background-color: lightgrey;
+    text-align: center;    
     width: 100%;
-
+    padding: 20%;
 }
 
 .cards {
-    
-    align-items: center;
+    text-align: center;
     color: #60958B;
     width: 100%;
+    padding: 20%;
 
 }
 
