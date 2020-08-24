@@ -19,11 +19,6 @@ header {
     height: 50%;
 }
 
-.logo {
-    width: 100%;
-    padding: 2%;    
-}
-
 .nav_links {
     list-style: none;
     position: fixed;
