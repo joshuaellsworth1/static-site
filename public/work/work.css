@@ -12,6 +12,27 @@ li, a {
     text-decoration: none;
 }
 
+.project-1 {
+    color: orange;
+    top: 25vh;
+    width: 33%;
+    background-color: green;
+}
+
+.project-2 {
+    color: blue;
+    top: 45vh;
+    width: 33%;
+    background-color: yellow;
+}
+
+.project-3 {
+    color: black;
+    top: 65vh;
+    width: 33%;
+    background-color: purple;
+}
+
 header {
     display: flex;
     align-items: right;
@@ -63,7 +84,7 @@ h1 {
     padding: 50px;
     position: absolute;
     margin-left: 720px;
-    margin-top: 200px;
+    margin-top: 110px;
 
 }
 
@@ -75,7 +96,7 @@ h3 {
     padding: 5px;
     position: absolute;
     margin-left: 750px;
-    margin-top: 300px;
+    margin-top: 250px;
 
 }
 
