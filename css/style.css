@@ -21,13 +21,14 @@ header {
 
 .logo {
     width: 100%;
-    padding: 2%;    
+    padding: 2%;  
+    opacity: 0.6;  
 }
 
 .nav_links {
     list-style: none;
     position: fixed;
-    margin: 50px;
+    margin: 80px;
     top: 0;
     width: 100%;
 }
@@ -67,7 +68,7 @@ h1 {
     text-align: center;
     padding: 50px;
     position: absolute;
-    margin-left: 720px;
+    margin-left: 708px;
     margin-top: 200px;
 
 }
@@ -85,11 +86,11 @@ h3 {
 }
 
 .text {
-    color: black;
+    color: #fff;
     background-color: lightgrey;
     text-align: center;    
-    width: 100%;
-    padding: 20%;
+    padding: 24.2%;
+    font-size: 31px;
 }
 
 .cards {
