@@ -57,26 +57,27 @@ button:hover {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 60px;
     color: #A75037;
     align-items: center;
     text-align: center;
     padding: 50px;
     position: absolute;
-    margin-left: 720px;
+    margin-left: 840px;
     margin-top: 200px;
 
 }
 
 h3 {
     color: #6F3B48;
-    font-size: 60px;
+    font-size: 40px;
     align-items: center;
     text-align: center;
     padding: 5px;
+    margin: 20px;
     position: absolute;
-    margin-left: 750px;
-    margin-top: 300px;
+    margin-left: 100px;
+    margin-top: 400px;
 
 }
 
