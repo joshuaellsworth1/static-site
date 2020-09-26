@@ -80,6 +80,17 @@ h3 {
 
 }
 
+.contact {
+    color: #6F3B48;
+    font-size: 60px;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 500px;
+}
+
 
 
 #footer {    

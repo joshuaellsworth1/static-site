@@ -16,21 +16,21 @@ li, a {
     color: orange;
     top: 25vh;
     width: 33%;
-    background-color: green;
+    background-color: salmon;
 }
 
 .project-2 {
     color: blue;
     top: 45vh;
     width: 33%;
-    background-color: yellow;
+    background-color: orange;
 }
 
 .project-3 {
-    color: black;
+    color: lightskyblue;
     top: 65vh;
     width: 33%;
-    background-color: purple;
+    background-color: lightyellow;
 }
 
 header {
@@ -106,7 +106,8 @@ h3 {
     color: white;
     width: 100%;
     position: relative;
-    bottom: 0;
+    bottom: -90vh;
+    background-color: green;
 }
 
 .link {
